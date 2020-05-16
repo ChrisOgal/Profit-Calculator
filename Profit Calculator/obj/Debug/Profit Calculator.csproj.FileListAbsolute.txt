@@ -1,0 +1,10 @@
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\bin\Debug\Profit Calculator.exe.config
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\bin\Debug\Profit Calculator.exe
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\bin\Debug\Profit Calculator.pdb
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\obj\Debug\Profit Calculator.csprojAssemblyReference.cache
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\obj\Debug\Profit_Calculator.ProjectCalculator.resources
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\obj\Debug\Profit_Calculator.Properties.Resources.resources
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\obj\Debug\Profit Calculator.csproj.GenerateResource.cache
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\obj\Debug\Profit Calculator.csproj.CoreCompileInputs.cache
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\obj\Debug\Profit Calculator.exe
+C:\Users\chris\Documents\School\C#  projects\Profit Calculator\Profit Calculator\obj\Debug\Profit Calculator.pdb
